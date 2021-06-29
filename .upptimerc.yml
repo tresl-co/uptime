@@ -5,11 +5,13 @@ repo: uptime # The name of this repository
 sites:
   - name: app.tresl.co
     url: https://app.tresl.co
+  - name: www.tresl.co
+    url: https://www.tresl.co
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
+  cname: status.tresl.co
   baseUrl: /uptime
   logoUrl: https://uploads-ssl.webflow.com/6039c0c41be19fd6a77aaaef/605c57d6f93b59a0919cb464_Tresl%20Logo_New.png
   name: ""
