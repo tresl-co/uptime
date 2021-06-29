@@ -1,20 +1,20 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "icon": "https://favicons.githubusercontent.com/www.google.com",
-    "slug": "google",
+    "name": "Tresl.co",
+    "url": "https://app.tresl.co",
+    "icon": "https://favicons.githubusercontent.com/app.tresl.co",
+    "slug": "tresl-co",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 70,
-    "timeDay": 70,
-    "timeWeek": 70,
-    "timeMonth": 70,
-    "timeYear": 70,
+    "time": 2173,
+    "timeDay": 2173,
+    "timeWeek": 2173,
+    "timeMonth": 2173,
+    "timeYear": 2173,
     "dailyMinutesDown": {}
   }
 ]
