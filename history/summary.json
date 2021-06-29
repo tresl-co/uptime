@@ -1,20 +1,20 @@
 [
   {
-    "name": "Tresl.co",
+    "name": "app.tresl.co",
     "url": "https://app.tresl.co",
     "icon": "https://favicons.githubusercontent.com/app.tresl.co",
-    "slug": "tresl-co",
+    "slug": "app-tresl-co",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 930,
-    "timeDay": 930,
-    "timeWeek": 930,
-    "timeMonth": 930,
-    "timeYear": 930,
+    "time": 126,
+    "timeDay": 126,
+    "timeWeek": 126,
+    "timeMonth": 126,
+    "timeYear": 126,
     "dailyMinutesDown": {}
   }
 ]
