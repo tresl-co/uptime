@@ -3,7 +3,7 @@ owner: tresl-co # Your GitHub organization or username, where this repository li
 repo: uptime # The name of this repository
 
 sites:
-  - name: Tresl.co
+  - name: app.tresl.co
     url: https://app.tresl.co
 
 status-website:
@@ -12,7 +12,7 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /uptime
   logoUrl: https://uploads-ssl.webflow.com/6039c0c41be19fd6a77aaaef/605c57d6f93b59a0919cb464_Tresl%20Logo_New.png
-  name: Uptime
+  # name: Uptime
   introTitle: "This is a status page for Tresl.co"
   # introMessage: This is a status page for tresl.co
   navbar:
