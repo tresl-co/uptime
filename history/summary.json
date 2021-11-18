@@ -1,5 +1,23 @@
 [
   {
+    "name": "app.tresl.co",
+    "url": "https://app.tresl.co",
+    "icon": "https://uploads-ssl.webflow.com/6039c0c41be19fd6a77aaaef/605c582d8d83a2b31c39cb55_Segments%20Favicon%2032x32.png",
+    "slug": "app-tresl-co",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 582,
+    "timeDay": 123,
+    "timeWeek": 150,
+    "timeMonth": 315,
+    "timeYear": 582,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "www.tresl.co",
     "url": "https://www.tresl.co",
     "icon": "https://uploads-ssl.webflow.com/6039c0c41be19fd6a77aaaef/605c582d8d83a2b31c39cb55_Segments%20Favicon%2032x32.png",
@@ -11,10 +29,28 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 207,
-    "timeDay": 129,
-    "timeWeek": 207,
-    "timeMonth": 167,
+    "timeDay": 130,
+    "timeWeek": 198,
+    "timeMonth": 166,
     "timeYear": 207,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "api.tresl.co",
+    "url": "https://api.tresl.co/health",
+    "icon": "https://uploads-ssl.webflow.com/6039c0c41be19fd6a77aaaef/605c582d8d83a2b31c39cb55_Segments%20Favicon%2032x32.png",
+    "slug": "api-tresl-co",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 530,
+    "timeDay": 176,
+    "timeWeek": 253,
+    "timeMonth": 586,
+    "timeYear": 530,
     "dailyMinutesDown": {}
   }
 ]
