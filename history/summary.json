@@ -40,17 +40,19 @@
     "url": "https://api.tresl.co/health",
     "icon": "https://uploads-ssl.webflow.com/6039c0c41be19fd6a77aaaef/605c582d8d83a2b31c39cb55_Segments%20Favicon%2032x32.png",
     "slug": "api-tresl-co",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 484,
-    "timeDay": 194,
-    "timeWeek": 254,
-    "timeMonth": 519,
-    "timeYear": 484,
-    "dailyMinutesDown": {}
+    "time": 480,
+    "timeDay": 179,
+    "timeWeek": 243,
+    "timeMonth": 507,
+    "timeYear": 480,
+    "dailyMinutesDown": {
+      "2021-12-01": 0
+    }
   }
 ]
