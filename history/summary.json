@@ -10,11 +10,11 @@
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
-    "time": 528,
-    "timeDay": 104,
-    "timeWeek": 107,
-    "timeMonth": 158,
-    "timeYear": 528,
+    "time": 525,
+    "timeDay": 52,
+    "timeWeek": 99,
+    "timeMonth": 150,
+    "timeYear": 525,
     "dailyMinutesDown": {
       "2021-12-01": 20
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 203,
-    "timeDay": 120,
-    "timeWeek": 212,
-    "timeMonth": 173,
-    "timeYear": 203,
+    "time": 202,
+    "timeDay": 105,
+    "timeWeek": 192,
+    "timeMonth": 172,
+    "timeYear": 202,
     "dailyMinutesDown": {}
   },
   {
@@ -43,16 +43,16 @@
     "icon": "https://uploads-ssl.webflow.com/6039c0c41be19fd6a77aaaef/605c582d8d83a2b31c39cb55_Segments%20Favicon%2032x32.png",
     "slug": "api-tresl-co",
     "status": "up",
-    "uptime": "98.50%",
+    "uptime": "98.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.49%",
-    "uptimeMonth": "98.50%",
-    "uptimeYear": "98.50%",
-    "time": 466,
-    "timeDay": 180,
-    "timeWeek": 241,
-    "timeMonth": 473,
-    "timeYear": 466,
+    "uptimeMonth": "98.59%",
+    "uptimeYear": "98.59%",
+    "time": 463,
+    "timeDay": 190,
+    "timeWeek": 240,
+    "timeMonth": 468,
+    "timeYear": 463,
     "dailyMinutesDown": {
       "2021-12-01": 354
     }
