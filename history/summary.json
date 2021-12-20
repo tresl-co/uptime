@@ -42,7 +42,7 @@
     "url": "https://api.tresl.co/health",
     "icon": "https://uploads-ssl.webflow.com/6039c0c41be19fd6a77aaaef/605c582d8d83a2b31c39cb55_Segments%20Favicon%2032x32.png",
     "slug": "api-tresl-co",
-    "status": "up",
+    "status": "down",
     "uptime": "99.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
@@ -54,6 +54,7 @@
     "timeMonth": 996,
     "timeYear": 664,
     "dailyMinutesDown": {
+      "2021-12-20": 0,
       "2021-12-13": 19,
       "2021-12-10": 39,
       "2021-12-01": 354
