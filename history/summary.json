@@ -24,19 +24,19 @@
     "url": "https://www.tresl.co",
     "icon": "https://uploads-ssl.webflow.com/6039c0c41be19fd6a77aaaef/605c582d8d83a2b31c39cb55_Segments%20Favicon%2032x32.png",
     "slug": "www-tresl-co",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.18%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 198,
-    "timeDay": 167,
-    "timeWeek": 173,
-    "timeMonth": 163,
+    "timeDay": 128,
+    "timeWeek": 162,
+    "timeMonth": 161,
     "timeYear": 198,
     "dailyMinutesDown": {
-      "2021-12-21": 0
+      "2021-12-21": 12
     }
   },
   {
