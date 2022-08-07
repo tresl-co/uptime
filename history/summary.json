@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 294,
-    "timeDay": 55,
-    "timeWeek": 72,
+    "timeDay": 56,
+    "timeWeek": 66,
     "timeMonth": 279,
-    "timeYear": 263,
+    "timeYear": 262,
     "dailyMinutesDown": {
       "2021-12-01": 20
     }
@@ -26,15 +26,15 @@
     "slug": "www-tresl-co",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "93.94%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.13%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.98%",
     "time": 243,
-    "timeDay": 300,
-    "timeWeek": 284,
-    "timeMonth": 791,
-    "timeYear": 243,
+    "timeDay": 110,
+    "timeWeek": 264,
+    "timeMonth": 786,
+    "timeYear": 242,
     "dailyMinutesDown": {
       "2022-08-05": 87
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.29%",
     "uptimeYear": "99.57%",
-    "time": 575,
-    "timeDay": 169,
+    "time": 574,
+    "timeDay": 183,
     "timeWeek": 157,
     "timeMonth": 197,
-    "timeYear": 575,
+    "timeYear": 574,
     "dailyMinutesDown": {
       "2022-08-04": 20,
       "2022-07-27": 28,
