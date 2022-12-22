@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 97,
-    "timeDay": 112,
-    "timeWeek": 104,
-    "timeMonth": 99,
+    "timeDay": 123,
+    "timeWeek": 107,
+    "timeMonth": 100,
     "timeYear": 97,
     "dailyMinutesDown": {}
   },
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 252,
-    "timeDay": 299,
-    "timeWeek": 285,
-    "timeMonth": 314,
-    "timeYear": 274,
+    "timeDay": 552,
+    "timeWeek": 323,
+    "timeMonth": 323,
+    "timeYear": 275,
     "dailyMinutesDown": {
       "2022-08-05": 87
     }
@@ -43,18 +43,17 @@
     "icon": "https://uploads-ssl.webflow.com/6039c0c41be19fd6a77aaaef/605c582d8d83a2b31c39cb55_Segments%20Favicon%2032x32.png",
     "slug": "api-tresl-co",
     "status": "up",
-    "uptime": "99.69%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.78%",
+    "uptime": "99.70%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.80%",
     "time": 550,
-    "timeDay": 1444,
-    "timeWeek": 548,
-    "timeMonth": 279,
-    "timeYear": 531,
+    "timeDay": 1459,
+    "timeWeek": 556,
+    "timeMonth": 282,
+    "timeYear": 443,
     "dailyMinutesDown": {
-      "2022-12-21": 9,
       "2022-11-17": 56,
       "2022-09-07": 49,
       "2022-08-20": 16,
@@ -89,8 +88,7 @@
       "2022-02-09": 19,
       "2022-02-07": 21,
       "2022-01-29": 15,
-      "2022-01-25": 23,
-      "2021-12-22": 24
+      "2022-01-25": 23
     }
   }
 ]
