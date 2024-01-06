@@ -4,19 +4,19 @@
     "url": "https://segments.app",
     "icon": "https://uploads-ssl.webflow.com/6039c0c41be19fd6a77aaaef/605c582d8d83a2b31c39cb55_Segments%20Favicon%2032x32.png",
     "slug": "segments-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "98.20%",
-    "uptimeWeek": "99.74%",
+    "uptimeDay": "98.12%",
+    "uptimeWeek": "99.73%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "100.00%",
+    "uptimeYear": "99.99%",
     "time": 95,
     "timeDay": 56,
     "timeWeek": 84,
     "timeMonth": 79,
     "timeYear": 95,
     "dailyMinutesDown": {
-      "2024-01-06": 26
+      "2024-01-06": 27
     }
   },
   {
@@ -24,10 +24,10 @@
     "url": "https://www.tresl.co",
     "icon": "https://uploads-ssl.webflow.com/6039c0c41be19fd6a77aaaef/605c582d8d83a2b31c39cb55_Segments%20Favicon%2032x32.png",
     "slug": "www-tresl-co",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 262,
@@ -36,6 +36,7 @@
     "timeMonth": 222,
     "timeYear": 262,
     "dailyMinutesDown": {
+      "2024-01-06": 1,
       "2023-11-06": 29,
       "2023-03-10": 28
     }
@@ -45,11 +46,11 @@
     "url": "https://api.tresl.co/health",
     "icon": "https://uploads-ssl.webflow.com/6039c0c41be19fd6a77aaaef/605c582d8d83a2b31c39cb55_Segments%20Favicon%2032x32.png",
     "slug": "api-tresl-co",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 357,
     "timeDay": 165,
@@ -57,7 +58,7 @@
     "timeMonth": 324,
     "timeYear": 306,
     "dailyMinutesDown": {
-      "2024-01-06": 10,
+      "2024-01-06": 0,
       "2023-04-14": 37,
       "2023-04-13": 23
     }
