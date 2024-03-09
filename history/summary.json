@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 94,
-    "timeDay": 66,
-    "timeWeek": 82,
-    "timeMonth": 88,
+    "timeDay": 80,
+    "timeWeek": 78,
+    "timeMonth": 87,
     "timeYear": 92,
     "dailyMinutesDown": {
       "2024-01-06": 26
@@ -31,13 +31,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 267,
-    "timeDay": 293,
-    "timeWeek": 864,
-    "timeMonth": 379,
-    "timeYear": 233,
+    "timeDay": 195,
+    "timeWeek": 863,
+    "timeMonth": 375,
+    "timeYear": 232,
     "dailyMinutesDown": {
-      "2023-11-06": 29,
-      "2023-03-10": 28
+      "2023-11-06": 29
     }
   },
   {
@@ -47,14 +46,14 @@
     "slug": "api-tresl-co",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "98.57%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 372,
-    "timeDay": 3044,
-    "timeWeek": 1144,
-    "timeMonth": 467,
+    "timeDay": 96,
+    "timeWeek": 1143,
+    "timeMonth": 466,
     "timeYear": 348,
     "dailyMinutesDown": {
       "2024-03-07": 21,
