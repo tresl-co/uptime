@@ -1,7 +1,7 @@
-url: https://api.tresl.co2/health
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-03-31T12:50:04.234Z
+url: https://api.tresl.co/health
+status: up
+code: 200
+responseTime: 185
+lastUpdated: 2024-03-31T12:51:39.914Z
 startTime: 2021-11-18T15:09:04.000Z
 generator: Upptime <https://github.com/upptime/upptime>
