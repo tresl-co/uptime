@@ -6,18 +6,16 @@
     "slug": "segments-app",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 98,
-    "timeDay": 163,
-    "timeWeek": 172,
-    "timeMonth": 127,
+    "timeDay": 147,
+    "timeWeek": 173,
+    "timeMonth": 129,
     "timeYear": 103,
-    "dailyMinutesDown": {
-      "2025-03-20": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "www.tresl.co",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 256,
-    "timeDay": 401,
-    "timeWeek": 339,
-    "timeMonth": 269,
-    "timeYear": 257,
+    "time": 257,
+    "timeDay": 301,
+    "timeWeek": 336,
+    "timeMonth": 270,
+    "timeYear": 258,
     "dailyMinutesDown": {
       "2025-02-05": 42
     }
@@ -51,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 356,
-    "timeDay": 167,
-    "timeWeek": 227,
-    "timeMonth": 214,
+    "timeDay": 211,
+    "timeWeek": 219,
+    "timeMonth": 215,
     "timeYear": 303,
     "dailyMinutesDown": {
       "2024-10-07": 26,
